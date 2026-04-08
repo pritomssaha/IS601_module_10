@@ -2,6 +2,11 @@
 ```bash
 https://hub.docker.com/repository/docker/pritomssaha/601_module10/
 ```
+<img src="/assets/docker_hub.PNG" />
+
+### GitHub workflow
+<img src="/assets/github_workflow.PNG" />
+
 ### clone the repo
 ```bash
 git clone git@github.com:pritomssaha/IS601_module_10.git
