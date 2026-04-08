@@ -8,8 +8,13 @@ git clone git@github.com:pritomssaha/IS601_module_10.git
 ```
 ### start the virtual env
 ```bash
+python3 -m venv venv
 source venv/bin/activate
 ````
+### install dependency
+```bash
+pip3 install -r requirements.txt
+```
 #### run the pytest
 ```bash
 (venv) pritom@DESKTOP-8L8AR1I:~/module10_is601$ pytest
